@@ -1,0 +1,142 @@
+Trying 192.168.39.208...
+Connected to 192.168.39.208.
+Escape character is '^]'.
+Show Help ? (Y/N) 
+>Current Time : 2022/11/18 07:15:51.842.
+
+Sensor Information.
+SelftTestOK : 1, DatErr : 0, AdrErr : 0, LenErr : 0, FmtErr : 9, SumErr : 0.
+All 0 : 0, No Data : 0, MaxAvaLen : 37.
+
+Switch/Lamp Information.
+RecSwStatus : 0, RecSwitch : 1, TSetLamp : 1, RecLamp : 0.
+
+Time Set Information.
+TSetOK : 1, TSetRtrCnt : 0, GpsInf.RetryCnt : 0, GpsInf.TimeOffset : 0 ms, CurDay : 18.
+
+GPS Information.
+GPS Ready : 1, NormalPower : 1, OfsErrCnt : 0, OffsetErr : 0, IrqGpsErrCnt : 5543.
+GpsInf ErrCnt : 0, NoDatErrCnt : 5532, InvalidCnt : 5532, SeqErrCnt : 0, MltErrCnt : 0.
+
+Clock Calibration Information.
+OffsetMin : 0, ClkCalValSet : 25324, ClkCalAvlSet : 82.
+Offset : 0, ClkCalVal : 25324, ClkCalAddVal : 82.
+CmdClkCal : 0, IrqGetCalFlag : 2, ClkCalFlg : 0, ClkCalEnd : 0.
+
+>
+********************************************************************************
+Mode                    : Normal Mode.
+Serial No               : 08.
+Sampling Rate           : 200 Hz.
+File Interval           : 10 Minute.
+Time Source             : GPS.
+GPS Power               : On.
+GPS Status              : Ready.
+Time Set                : OK.
+Current Time            : 2022/11/18 07:15:51.858
+Sensor Status           : Ready.
+SD                      : 29,670,560 KB.
+FTP Server Information
+  Status                : Stopped.
+********************************************************************************
+>Setting Mode.
+>
+Signature          : [AccLogger].
+App Version        : [5.31].
+Lib Version        : [2.03].
+Device Type        : [Small].
+Mac Address        : [0003CD000336].
+Own IP Address     : [192.168.39.208].
+Subnet Mask        : [255.255.255.0].
+Gateway IP Addr    : [192.168.0.10].
+Ntp Sever IP Addr  : [192.168.39.150].
+User Name          : [clover].
+Password           : [clover].
+Execution Mode     : [Normal].
+Num Accelerometer  : [1].
+Serial No          : [08].
+Pass Through       : [None].
+Log Mode           : [Off].
+Network Recording  : [Off].
+External Trigger   : [On].
+Baud Rate Cmn 1    : [57600] bps.
+Baud Rate Cmn 2    : [57600] bps.
+Baud Rate Sensor   : [115200] bps.
+Baud Rate Gps      : [9600] bps.
+Interrupt Rate     : [1000] Hz.
+Sampling  Rate     : [200] Hz.
+Display   Rate     : [10] Hz.
+Output CR/LF Code  : [Received CR/LF Code].
+Time Source        : [GPS].
+Clock Calibration  : [Enable].
+ClkCal Start Time  : [1] Minutes.
+ClkCal Interval    : [0] Minutes.
+ClkCal Time        : [1] Minutes.
+ClkCal Value       : [25324].
+ClkCal Add Value   : [82].
+TSrc Warm Up Time  : [1] Minutes.
+Sensor Type        : [M-A352].
+GPS Power Control  : [Hardware].
+Connect Sensor     : [On].
+Record Switch      : [Exist].
+Time Set Lamp      : [Exist].
+Record Lamp        : [None].
+Use DHCP           : [Off].
+Use Gateway        : [Off].
+Use DNS            : [Off].
+Dns Sever IP Addr  : [0.0.0.0].
+Dest Name          : [].
+Dest IP Addr       : [0.0.0.0].
+Dest Send          : [00:00].
+File Interval Flag : [Minute].
+File Interval      : [10].
+Router Name        : [].
+Use Accelerometer  : [On].
+Use Ad             : [Off].
+Use Gps            : [On].
+XO Type            : [VCTCXO].
+XO Volt Ctl Min    : [0.300000] Volt.
+XO Volt Ctl Max    : [3.000000] Volt.
+Time Src Off Rec   : [Off].
+Recorder ID        : [0000].
+Gain               : [1].
+AD FPGA            : [Off].
+AD Clock           : [b].
+AD Data Rate       : [1000] SPS.
+AD CH Start        : [1].
+AD CH End          : [4].
+AD FIR Phase       : [0].
+AD Digital Filter  : [2].
+AD HPF Frequency   : [1.000].
+AD Volt Offset[00] : [0.000000].
+AD Volt Offset[01] : [0.000000].
+AD Volt Offset[02] : [0.000000].
+AD Volt Offset[03] : [0.000000].
+AD Volt Offset[04] : [0.000000].
+AD Volt Offset[05] : [0.000000].
+AD Volt Offset[06] : [0.000000].
+AD Volt Offset[07] : [0.000000].
+AD Volt Offset[08] : [0.000000].
+AD Volt Offset[09] : [0.000000].
+AD Volt Offset[10] : [0.000000].
+AD Volt Offset[11] : [0.000000].
+AD Volt Offset[12] : [0.000000].
+AD Volt Offset[13] : [0.000000].
+AD Volt Offset[14] : [0.000000].
+AD Volt Offset[15] : [0.000000].
+AD Volt Scale      : [0.000000].
+Router Type        : [Normal].
+SD Ignore Insert   : [Off].
+Auto Time Set      : [On].
+
+Clock Calibration Information.
+OffsetMin : 0, ClkCalValSet : 25324, ClkCalAvlSet : 82.
+Offset : 0, ClkCalVal : 25324, ClkCalAddVal : 82.
+
+>GPS Check Time Executing.
+>
+GPS Check OK. Offset : 0 ms.
+Server Time : 2022/11/18 07:15:53.000.
+Own Time    : 2022/11/18 07:15:53.000.
+
+>
