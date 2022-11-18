@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+CloverHacker.egg-info/PKG-INFO
+CloverHacker.egg-info/SOURCES.txt
+CloverHacker.egg-info/dependency_links.txt
+CloverHacker.egg-info/entry_points.txt
+CloverHacker.egg-info/requires.txt
+CloverHacker.egg-info/top_level.txt
+src/CloverHacker.py
+src/__init__.py
+src/__main__.py

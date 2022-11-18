@@ -2,7 +2,8 @@ import os
 from CloverHacker import CloverHacker
 
 # for LA-352
-ch = CloverHacker(IP="192.168.39.208")
+IP = input("IP-address :: ")
+ch = CloverHacker(IP=IP)
 ch.default_sampling_Hz = 200
 ch.default_time_source = "GPS"
 ch.default_file_interval = 10
@@ -19,8 +20,12 @@ if ch.is_connected():
     # 計測前チェックリストを実行する
     ret = ch.run_preflight_checklist()
 
-    # データのモニタリング
-    ch.monitor(dt=10.0, repeat=1)
+
+    if ret :
+        # データのモニタリング
+        print("Open *.pdf")
+        # 5k秒分のデータを1回とってくる
+        ch.monitor(dt=5.0, repeat=1)
 
 else:
     print("Logger is NOT connected!")
